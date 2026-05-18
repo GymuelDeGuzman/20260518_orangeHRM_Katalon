@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_ValidInput_RedirectToDashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1aae5009-0620-4e71-8b2e-dd76ac47d19b</testCaseGuid>
+</TestCaseEntity>

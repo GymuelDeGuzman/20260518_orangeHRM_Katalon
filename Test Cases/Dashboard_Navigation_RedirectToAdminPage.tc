@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard_Navigation_RedirectToAdminPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40d10f47-0608-4246-bc1d-2c34436a1c2f</testCaseGuid>
+</TestCaseEntity>
