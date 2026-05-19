@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewUser_ValidInput_RedirectToAdd_ReturnToDashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aae9af33-ec8c-400a-86a5-24701070f182</testCaseGuid>
+</TestCaseEntity>

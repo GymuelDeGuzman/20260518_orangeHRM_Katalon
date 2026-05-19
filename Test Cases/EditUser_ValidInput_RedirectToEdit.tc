@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditUser_ValidInput_RedirectToEdit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49ae6f41-af18-4b93-a059-7d5995165036</testCaseGuid>
+</TestCaseEntity>

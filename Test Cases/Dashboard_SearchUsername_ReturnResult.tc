@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard_SearchUsername_ReturnResult</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0e01630-5461-4abe-bc46-e422b2ef3409</testCaseGuid>
+</TestCaseEntity>
